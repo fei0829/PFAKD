@@ -6,8 +6,4 @@
 
 - 我们在多个不同的数据集和模型上进行了广泛实验，结果表明PFAKD均优于基线方法，这证明了 PFAKD 相对于最先进的方法的优越性和通用性。
 
-实验结果
-
-![1724505101233](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\1724505101233.png)
-
 对于代码部分，我们在个性化联邦学习中使用了一个开源算法库Pfllib，它集成了一些当前最先进的算法，我们的方法的代码是基于这个框架编写的。其他方法请参考PFLblib https://github.com/TsingZ0/PFLlib
